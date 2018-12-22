@@ -1,8 +1,7 @@
 name = "Blackburn"
 license = "MIT"
-licenselink = "https://github.com/yoshiharuyamashita/blackburn/blob/master/LICENSE.md"
 description = "A clear, responsive theme constructed using Pure CSS from Yahoo"
-homepage = "https://github.com/yoshiharuyamashita/blackburn"
+homepage = "https://github.com/basiccreation/blackburn"
 tags = ["blog", "personal", "purecss", "responsive"]
 features = ["blog", "personal", "purecss", "responsive"]
 min_version = 0.15
